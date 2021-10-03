@@ -1,0 +1,218 @@
+
+
+smart git steps
+open the modified files in smart git
+check the changes whether its legit or not
+push the file when it's legit 
+->ssh command
+
+connect with ssh
+#cross check the files
+ssh -i ~/.ssh/minty-stage-key-pair.pem ubuntu@3.7.57.113
+ssh -i ~/.ssh/fintoo-stage-key.pem ubuntu@3.7.57.113
+
+cd /var/www/mintystage/mintyapp/minty/minty
+git pull origin stagebrance
+sudo touch wsgi.py 
+( sudo service apache2 restart)
+
+
+
+bipin minty credentials
+8652584605
+Bipin@$123
+
+
+http://minty.co.in/report/downloadreport/?filename=asset_summary&action=downloadrep/ort
+
+
+id: mishrabipin544@gmail.com
+pass: Bipin@$123
+use log_id: 177 
+
+
+
+
+
+
+ID : 7045517615
+password : Rushi@3004
+
+username
+xahigav123@whyflkj.com
+pass:
+xahigav123
+
+error codes:
+100: for success
+101: for invalid data insertion values in (updating or adding values in db)
+102: for invalid parameter values
+103: for expections , errors form back end or in logic
+104: for invalid request method (GET/POST)
+
+
+
+status :- datagerthing 
+user id :- 
+bedejo8096@zcai77.com
+lejawa9371@tripaco.com
+cixal21045@zcai77.com
+wenifan940@quossum.com
+yinofef277@sejkt.com
+without payment -1
+reromen311@yehudabx.com
+
+payment 
+lasan52696@sumwan.com
+xevobon143@yehudabx.com
+reromen311@yehudabx.com
+
+payment 
+jaxix71114@sejkt.com
+
+ssh -i ~/.ssh/fintoo-prod-key.pem ubuntu@15.206.49.6
+
+ssh -i ~/.ssh/minty_fintoo_prod.pem ubuntu@15.206.49.6
+
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'mintycopy',
+        'USER': 'root',
+        'PASSWORD': 'root',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
+
+
+cd /var/www/mintystage
+git reset file name
+git checkout filename
+git pull origin stagebrance
+
+http://www.localminty.com/login-to-module/?emailmobile=YmlwaW5AZmludG9vLmlu&password=MTIzNDU2Nzg=
+
+
+http://www.localminty.com/login-to-module/?user_id=MTU3MjQw
+
+http://minty.co.in/logins-to-module/?user_id=MTU3MjQw
+
+
+new pass
+	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
+
+Resloved register issue in Local 
+
+login-to-module/?user_id=MTU3MjQw&password=cEAkJFdvcmRAMjEwNTk5OQ==
+?user_id=MTM4MjQ1&password=cEAkJFdvcmRAMjEwNTk5OQ==
+
+
+http://minty.co.in/login/?isexpert=1&rm_id=243&plan_id=p
+
+
+	p@$$Word@2105999	
+
+
+CRM live
+Happy2021@#
+admin@financialhospital.in
+
+CRM Stage
+admin@financialhospital.in
+test@123
+
+NSDL
+AHPPR2361D
+
+
+print(sys.stderr, requestdata)
+
+	5 6
+
+IF(a.`asset_sub_category_id` IN (81,82,83,85)
+
+
+
+http://www.local
+.com/userflow/expertpayment/?user_id=MTU4Nzcx&cart_id=MTUxMQ==&amount=MQ==&fp_user_log=MTYxNw==
+http://www.localminty.com/userflow/expertpayment/?user_id=158823&cart_id=1572&amount=1&fp_user_log=1880
+
+/userflow/expertpayment/?user_id=162583&cart_id=1635&amount=1&fp_user_log=1932
+
+http://www.localminty.com/userflow/expertpayment/?user_id=MTYyNTg2&cart_id=MTYzOA==&amount=MQ==&fp_user_log=MTkzNQ==
+http://www.localminty.com/userflow/expertpayment/?user_id=MTU4Mzg5&cart_id=MTc1MA==&amount=MQ==&fp_user_log=MjEzNA==
+
+http://minty.co.in/userflow/expertpayment/?user_id=MTYyNzgw&cart_id=MTc1Mg==&amount=MS4w&fp_user_log=MjEzOA==
+
+
+http://minty.co.in/userflow/expertpayment/?user_id=MTYyNjA0&cart_id=MTY0OQ==&amount=MQ==&fp_user_log=MTk1NQ==
+http://minty.co.in/userflow/expertpayment/?user_id=MTYyNzc3&cart_id=MTc1MA==&amount=MQ==&fp_user_log=MjAxOA==
+
+https://www.fintoo.in/userflow/expertpayment/?user_id=MTYzMTU1&cart_id=MTAzMg==&amount=MQ==&fp_user_log=MjEzNg==
+https://www.fintoo.in/userflow/expertpayment/?user_id=MTY1MDA4&cart_id=MTI3Mw==&amount=MQ==&fp_user_log=MTUxNw==
+163155
+
+
+madhan32@gmaill.com
+
+0 score 0 content pending
+1 to 3 score 10
+3 to 6 score 15
+6 to 100 score 20
+
+
+[1913, 158840, 40.0, 60.0, -1, 98.0, 7]
+
+
+logdetails 
+
+
+
+/var/www/mintystage/mintyapp/minty/main/templates/email_templates/callback_mail_to_rm_expert.html
+/var/www/mintystage/mintyapp/minty/static/userflow/js/main.js
+
+
+
+full name in rm and client payment success
+supriyaexpertregi@yopmail.com >>> expert flow nda issue
+fp agreement css cahnges
+
+jtu08637@eoopy.com
+
+
+
+
+Truncated or oversized response headers received from daemon process 'minty': /var/www/mintystage/mintyapp/minty/minty/wsgi.py, referer: https://www.fintoo.in/register/
+
+9769997586
+
+
+
+
+Is This Income Fixed Or Variable?* - income
+Is This Expense Fixed Or Variable?* - expense
+Is This Expense Mandatory Or Wishful?* - expense
+Is This Goal Critical Or Not? - Goals
+Can We Consider This Asset In Automated Linkage?* - asset
+
+19.99 + 359.82
+\
+
+	labraddijibroi7170@yopmail.com
+
+$79,458,150 
+
+
+to do -2 
+stage -document
+
+ssh -i ~/.ssh/fintoo-stage-key.pem ubuntu@3.7.57.113
+
+
+supriya.chavan@fintoo.in
+sehwaag9644@yopmail.com	 
+Pass-Abc1234@gmail
+
+
